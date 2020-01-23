@@ -16,7 +16,9 @@ public class GitTest2 {
     }
     public static void main(String[] args) {
         // TODO code application logic here
-        print("yoooo");
+        print("Created in netbeans, then committed and pushed");
+        
+        print("Modified from github");
     }
     
 }
