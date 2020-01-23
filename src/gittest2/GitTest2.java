@@ -19,6 +19,8 @@ public class GitTest2 {
         print("Created in netbeans, then committed and pushed");
         
         print("Modified from github");
+        
+        print("Another print call, github);
     }
     
 }
