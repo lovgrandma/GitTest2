@@ -11,11 +11,12 @@ package gittest2;
  */
 public class GitTest2 {
 
-    /**
-     * @param args the command line arguments
-     */
+    public static void print(String a) {
+        System.out.println(a);
+    }
     public static void main(String[] args) {
         // TODO code application logic here
+        print("yoooo");
     }
     
 }
