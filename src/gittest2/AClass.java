@@ -11,6 +11,7 @@ package gittest2;
  */
 public class AClass {
     int avalue;
+    int newvalue;
     AClass() {
         
     }
