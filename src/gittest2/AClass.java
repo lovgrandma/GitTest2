@@ -10,5 +10,7 @@ package gittest2;
  * @author Owner
  */
 public class AClass {
-    
+    AClass() {
+        
+    }
 }
